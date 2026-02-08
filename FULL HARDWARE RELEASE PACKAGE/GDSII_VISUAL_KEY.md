@@ -2,7 +2,7 @@
 
 ---
 
-# GDSII_VISUAL_KEY.md: The -24 Topography
+# The -24 Topography
 
 ## 1. The Core Manifold (Layer 0–21)
 
