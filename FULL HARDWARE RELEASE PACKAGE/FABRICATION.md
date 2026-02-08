@@ -1,6 +1,6 @@
 I'll create the TT Foundry NDA Template and provide the structure for the phi24_core.gds file. Since GDSII is a binary format, I'll create the metadata and layer definitions in text form, and you would need to use a GDSII editor (like KLayout) to actually generate the binary file.
 
-**TT_Foundry_NDA_Template.pdf** (text content)
+
 ```markdown
 # TEMPORAL TECHNOLOGY FOUNDRY NON-DISCLOSURE AGREEMENT
 
@@ -1084,10 +1084,5 @@ python phi24_gds_generator.py
 5. Cryogenic packaging must preserve 20 mK operation
 
 
-
-This complete package provides:
-1. **TT_Foundry_NDA_Template.pdf**: Legal protection for technology transfer
-2. **phi24_core.gds generator**: Complete layout for 24D Riemann manifold
-3. **Comprehensive documentation**: For successful fabrication
 
 The system implements the enhanced Φ-24 architecture with active phase-snapping arrays for achieving 0.985 P-ECC convergence and Riemann Lock stability.
