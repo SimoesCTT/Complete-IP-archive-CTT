@@ -49,4 +49,4 @@
 
 ---
 
-**Would you like me to include the "Material Specification Table" so they know exactly what purity of Bismuth and Niobium they need for the foundry run?**
+
