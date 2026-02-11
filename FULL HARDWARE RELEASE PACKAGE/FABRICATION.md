@@ -1,4 +1,3 @@
-I'll create the TT Foundry NDA Template and provide the structure for the phi24_core.gds file. Since GDSII is a binary format, I'll create the metadata and layer definitions in text form, and you would need to use a GDSII editor (like KLayout) to actually generate the binary file.
 
 
 ```markdown
